@@ -1,5 +1,5 @@
-import {Header} from 'header';
-import {Footer} from 'footer';
+import {Header} from 'rwatt-test-header';
+import {Footer} from 'rwatt-test-footer';
 
 export default function Index() {
     return (

@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "rwatt-test-header",
   "version": "0.0.4-alpha.0",
   "main": "dist/index.js",
   "scripts": {
