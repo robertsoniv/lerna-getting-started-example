@@ -1,5 +1,9 @@
 {
   "name": "@sitecore-ui/chakra-theme",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.sitecore.com/contenthub/"
+  },
   "version": "0.0.1-alpha.1",
   "description": "The Sitecore theme for chakra components",
   "keywords": [
